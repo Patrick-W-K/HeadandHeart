@@ -21,4 +21,6 @@ This project is released under the MIT License. That means:
  you can build on them in your own work;
  attribution is appreciated but not required.
 
+ Please see the Licence file for the full details.
+
 If you use or adapt any part of my work, I’d love to hear how it helped — but you’re free to use it without asking.
