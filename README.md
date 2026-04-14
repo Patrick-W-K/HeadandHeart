@@ -1,8 +1,8 @@
 INTRODUCTION
 
-Head & Heart is an open source repository of resources to help organisations transform their information systems and their culture. I treat information systems as an activity that teams of people participate in to achieve communication, record keeping, and research aims. Looked at from this perspective, it is human emotions that drive an information system, and the data that system holds is shaped by the emotional lives of the people involved.
+Head & Heart is an open source repository of resources to help organisations transform their information systems and their culture. I treat information systems as an activity that teams of people participate in to achieve communication, record keeping, and research aims. Looked at from this perspective, it is human motivation that drive an information system, and the data that system holds is shaped by the people involved.
 
-This repository is aimed at social charities and education institutions, and when it addresses technical issues it reflects my expertise in the Microsoft 365 ecosystem. Having said that, the frameworks and much of the advice is written to be sector and platform independent, and everyone is welcome to use these resource.
+This repository is aimed at social charities and education institutions, and when it addresses technical issues it reflects my expertise in the Microsoft 365 ecosystem. Having said that, the frameworks and much of the advice is written to be sector and platform independent, and everyone is welcome to use these resources.
 
 WHERE MICROSOFT FITS IN
 
